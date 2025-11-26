@@ -1,5 +1,5 @@
 # Web Based Projects
-This repository houses various web based projects I worked on during my academic journey. Each project folder includes detailed documentation, code, and relevant resources. Let’s dive into the projects:
+This repository contains various WEB and CLI projects I worked on during my academic journey. Each project folder includes detailed documentation, code, and relevant resources. Let’s dive into the projects:
 
 # 1. JetSetGo: The Easiest Flight Booking Web Application (HTML, CSS, JavaScript, PHP)
     Description: An innovative flight booking website.
